@@ -21,7 +21,7 @@ import java.util.*
 class MainActivity : AppCompatActivity(), DataStoreEventListener {
 
 
-    val app_id : String = "dogjkn9fo6y.mlkcca.com"
+    val app_id : String = "your_id.mlkcca.com"
     val key : String = "esp32"
 
     var player_name : String = "player"
